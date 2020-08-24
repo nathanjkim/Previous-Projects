@@ -1,0 +1,9 @@
+A deck is a collection, or array(list) of cards.
+
+Six Cards
+
+ranks: "ace", "king", "queen", "jack", "10", "9", "8", "7", "6", "5", "4", "3", "2", "1"
+suits: "spades", "hearts", "diamonds", "clubs"
+points: 10, 10, 10, 10, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1
+
+No, the deck will shuffle regardless.
